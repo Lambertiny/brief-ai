@@ -28,6 +28,34 @@ BRIEF//AI was designed as a product-design and front-end portfolio case explorin
 
 ## Product Flow
 
+---
+
+## Screenshots
+
+### Workspace
+
+![BRIEF AI Workspace](./screenshots/workspace.png)
+
+### New Brief
+
+![BRIEF AI New Brief](./screenshots/new-brief.png)
+
+### Analysis
+
+![BRIEF AI Analysis](./screenshots/analysis.png)
+
+### Export & PDF Generation
+
+![BRIEF AI Export](./screenshots/export.png)
+
+### Responsive Mobile Experience
+
+<p align="center">
+  <img src="./screenshots/mobile.png" width="380" alt="BRIEF AI Mobile Experience">
+</p>
+
+---
+
 ```text
 RAW CLIENT BRIEF
         ↓
