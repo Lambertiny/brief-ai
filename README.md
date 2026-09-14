@@ -1,16 +1,38 @@
-# React + Vite
+# BRIEF//AI — Creative Intelligence
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-assisted creative briefing workspace that transforms raw client input into structured brand strategy, creative direction and digital recommendations.
 
-Currently, two official plugins are available:
+BRIEF//AI was designed as a product-design and front-end portfolio case exploring how artificial-intelligence workflows can support creative strategy.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Project Highlights
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Structured creative briefing workflow
+- Raw client input editor
+- Brief analysis interface
+- Brand strategy recommendations
+- Creative direction system
+- Website planning module
+- Project history interface
+- Responsive desktop and mobile experience
+- Real PDF strategy-document generation
+- Multi-page formatted PDF export
+- Interactive navigation and application states
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Product Flow
+
+```text
+RAW CLIENT BRIEF
+        ↓
+ANALYSIS
+        ↓
+STRATEGY
+        ↓
+CREATIVE DIRECTION
+        ↓
+WEBSITE PLAN
+        ↓
+PDF EXPORT
