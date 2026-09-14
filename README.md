@@ -1,5 +1,7 @@
 # BRIEF//AI — Creative Intelligence
 
+![BRIEF AI Cover](./screenshots/cover-brief-ai.png)
+
 [Live Demo](https://brief-ai-gamma.vercel.app) · [View Repository](https://github.com/Lambertiny/brief-ai)
 
 AI-assisted creative briefing workspace that transforms raw client input into structured brand strategy, creative direction and digital recommendations.
