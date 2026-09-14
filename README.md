@@ -1,5 +1,7 @@
 # BRIEF//AI — Creative Intelligence
 
+[Live Demo](https://brief-ai-gamma.vercel.app) · [View Repository](https://github.com/Lambertiny/brief-ai)
+
 AI-assisted creative briefing workspace that transforms raw client input into structured brand strategy, creative direction and digital recommendations.
 
 BRIEF//AI was designed as a product-design and front-end portfolio case exploring how artificial-intelligence workflows can support creative strategy.
